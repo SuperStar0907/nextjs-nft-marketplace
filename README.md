@@ -1,5 +1,5 @@
 ## Hosted Website Link:   [Vercel NFT-Marketplace](https://nft-marketplace-tirth.vercel.app/create-nft) 
-<img width="1279" alt="Screenshot 2023-07-21 at 1 49 41 PM" src="https://github.com/SuperStar0907/nextjs/assets/74975220/d8905aed-748f-40e4-8640-8082ff33141c">
+<img width="1279" alt="Screenshot 2023-07-21 at 1 49 41 PM" src="https://github.com/SuperStar0907/nextjs-nft-marketplace/assets/74975220/caae397b-dd35-41de-9f68-f2e9e193dbcf">
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
