@@ -1,4 +1,7 @@
 ## Hosted Website Link:   [Vercel NFT-Marketplace](https://nft-marketplace-tirth.vercel.app/create-nft) 
+
+Innovative NFT marketplace web application using NextJS and Solidity, offering seamless functionality for buying and selling NFTs, with personalized dashboards, all hosted and deployed on Vercel for optimal performance.
+
 <img width="1279" alt="Screenshot 2023-07-21 at 1 49 41 PM" src="https://github.com/SuperStar0907/nextjs-nft-marketplace/assets/74975220/caae397b-dd35-41de-9f68-f2e9e193dbcf">
 
 
